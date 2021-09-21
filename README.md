@@ -10,7 +10,7 @@ Prerequisites:
 
 ## Installation
 
-***pip install selenium***
+> ***pip install selenium***
 
 * From https://chromedriver.chromium.org/downloads, download the particular browser's webdriver.
 * We can use the particular browser's webdriver and then use selenium to automate work.
